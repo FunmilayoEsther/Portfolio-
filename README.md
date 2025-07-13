@@ -1,8 +1,8 @@
 # Data Consultant
 
-#### Technical Skills: Python, SQL, Data analysis and Modeling, Data visualization.
+#### **Technical Skills:** Python, SQL, Data analysis and Modeling, Data visualization.
 
-#### Soft Skills: Communication, Problem solving, Critical thinking, Project management, Attention to details, Leadership, Adaptability, Continous learning.
+#### **Soft Skills:** Communication, Problem solving, Critical thinking, Project management, Attention to details, Leadership, Adaptability, Continous learning.
 
 ## ABOUT ME
 
