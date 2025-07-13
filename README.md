@@ -1,12 +1,26 @@
 # Data Consultant
 
+#### Technical Skills: Python, SQL, Data analysis and Modeling, Data visualization.
+
+### Soft Skills: Communication, Problem solving, Critical thinking, Project management, Attention to details, Leadership, Adaptability, Continous learning.
+
 ## ABOUT ME
 
 ## PROJECTS
 
+## EXPERIENCE
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
 ## CERTIFICATIONS
 
-## EDUCATION
+## EDUCATION 			        		
+- B.S., Microbiology | University of Ilorin, Kwara state, Nigeria (_September 2018_)
 
 ## CONTACTS
 <!--
